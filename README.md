@@ -1,1 +1,1 @@
-# FluuterBasicHoroscopeGuide
+# FlutterBasicHoroscopeGuide
